@@ -133,7 +133,7 @@ public class Tienda{
                 chela.setPrecio(0);
             }
            System.out.println(" -------------------------------------------------------------------");
-           System.out.println("|                             TIKET                                 |");
+           System.out.println("|                             TICKET                                |");
            System.out.println(" -------------------------------------------------------------------");
            System.out.println("|Producto       precio         cantidad            Total individual |");
            System.out.println(" -------------------------------------------------------------------");
