@@ -1,7 +1,10 @@
+//Alumnos:
+//Medina Mena Anibal
+//Ortega Merida Juan Alberto
 public class Producto{
-	int precio;
+	private int precio;
 	int cantidad;
-	String nombre;
+	private String nombre;
 	void setPrecio(int iprecio){
 		precio=iprecio;
 	}

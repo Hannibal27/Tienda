@@ -1,9 +1,12 @@
-import java.util.Scanner;
-public class Tienda{
+//Alumnos:
+//Medina Mena Anibal
+//Ortega Merida Juan Alberto
+import java.util.Scanner;//utilizamos el Scanner para ingresar datos desde el teclado
+public class Testtienda{
     public static void main(String[] args) {
         String n="s";
         String s="s";
-        Producto leche= new Producto();
+        Producto leche= new Producto();// creamos nuestros objetos
         leche.setNombre("Leche");
         leche.setCantidad(0);
         leche.setPrecio(14);
